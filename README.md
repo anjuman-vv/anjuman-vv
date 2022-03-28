@@ -70,20 +70,20 @@
 
 ## 📊 My Github Stats
 
-![Anjuman GitHub stats](https://github-readme-stats.vercel.app/api?username=anjuman-v&show_icons=true&theme=radical) 
+![Anjuman GitHub stats](https://github-readme-stats.vercel.app/api?username=anjuman-vv&show_icons=true&theme=radical) 
 
 </br>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjuman-v&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjuman-vv&theme=radical) 
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuman-v&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuman-vv&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anjuman-v)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjuman-vv)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 
@@ -94,7 +94,7 @@
 <br/>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=anjuman-v&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=anjuman-vv&theme=gruvbox&hide_border=true&area=true)
 <br/>
 <br/>
 
