@@ -24,97 +24,82 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
-
-
-<p>
-   <a href="https://twitter.com/">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
-  </a>
-  <a href="mailto:ansa.anjuman00786@gmail.com">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
-  </a>
- <a href="">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/medium.svg" width="32px"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anjuman-ansari-0a3810174/">
-    <img align="left" src="https://raw.githubusercontent.com/Sanjuman-v/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
-  </a>
-  <a href="https://leetcode.com">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
-  </a>
-</p>
-
-<img src ="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
-
-<br>
-<br>
-
- <hr>
- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
-<p >
- <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/python%20-%23329993.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=dcad11" />&nbsp;&nbsp;
- <br/>
- <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=41011c&logo=Figma&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=f00604&logo=Sass&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
- <br/>
- <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />&nbsp;&nbsp;                      
-</p>
-<hr>
-
-
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
-
-<hr>
-
- <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-
+## Connect with me:-
 <p align="left">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
-</p>
 
-<p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  />
-</p>
+<a href="https://twitter.com/">
+  <img align="left" alt="anjuman" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
  
-<p>
-<a href="https://github.com/shivam-singh-au17"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-singh-au17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
-</span></a> </p>
+<a href="https://www.linkedin.com/in/anjuman-ansari-0a3810174/">
+  <img align="left" alt="anjuman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr clear="both">
- <br/>
-<p align="center">
-<a href="https://github.com/shivam-singh-au17"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=dracula" />
-</span></a> </p>
+<a href="https://www.instagram.com/anjuman1602/">
+  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
- <br/>
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-singh-au17&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+<a href="https://github.com/anjuman-v">
+  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</a>
+
+<br />
+<br />
+<br />                                                                                                                     
 
 
-<hr clear="both">
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
+## 🚀 Languages and Tools:-
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+<p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
+     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+</p>
+
+</br>
+</br>
+
+## 📊 My Github Stats
+
+![Anjuman GitHub stats](https://github-readme-stats.vercel.app/api?username=anjuman-v&show_icons=true&theme=radical) 
+
+</br>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjuman-v&theme=radical) 
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuman-v&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
+
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjuman-v)](https://github.com/ryo-ma/github-profile-trophy)
+
+</br>
+
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=anjuman-v&theme=gruvbox&hide_border=true&area=true)
+<br/>
+<br/>
+
+
+
+</p>
+
+
