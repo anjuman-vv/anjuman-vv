@@ -39,7 +39,7 @@
   <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://github.com/anjuman-v">
+<a href="https://github.com/anjuman-vv">
   <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 
@@ -101,5 +101,18 @@
 
 
 </p>
+                                                            
+<hr clear="both">
 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)                                                            
+                                                            
+
+                                                            
 
