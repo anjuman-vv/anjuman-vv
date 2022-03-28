@@ -1,6 +1,6 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shivam Singh </h1>
+<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm anjuman </h1>
 
  <p>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able toperform well in a team. Passionate about coding and equipped with a diverse andpromising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
 
